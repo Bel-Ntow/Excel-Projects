@@ -30,4 +30,7 @@ The average turnaround for test results was **4 hours and 22 minutes**. While ef
 Monitor turnaround during high-volume periods and optimize workflow to maintain consistency.
 
 
+<img src="https://raw.githubusercontent.com/Bel-Ntow/Excel-Projects/main/MedLab%20Diagnostics%20Analysis/Medlab_Diagnostics_Dashboard.png" alt="MedLab Diagnostics Dashboard">
+
+
 
