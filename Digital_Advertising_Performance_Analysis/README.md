@@ -39,4 +39,5 @@ The goal of this project is to identify client churn patterns, analyze campaign 
 - **Create a re-engagement workflow** for paused and expired clients with previously strong performance — these clients may be recoverable with the right follow-up.
 
 
+<img src="https://raw.githubusercontent.com/Bel-Ntow/Excel-Projects/main/Digital_Advertising_Performance_Analysis/Creative_Pulse_Media_Dashboard.png" alt="Creative Pulse Media Dashboard">
 
