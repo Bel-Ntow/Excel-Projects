@@ -29,3 +29,4 @@ Over the two-month period of November and December, a total of **2,580 units** w
 ### Salesperson Performance
 - **Emily Blunt** emerged as the top salesperson, selling **690 units**, the highest among all salespeople.
 
+<img src="https://raw.githubusercontent.com/Bel-Ntow/Excel-Projects/main/Sales_Performance_Analysis/Sales_Analysis_Dashboard.png" alt="Sales Analysis Dashboard">
