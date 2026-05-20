@@ -84,3 +84,16 @@ This project demonstrates skills in:
 - Training and performance analysis
 - Interactive dashboard development
 - Data storytelling and insight communication
+
+<h2> Dashboard Overview</h2>
+
+<table>
+  <tr>
+    <td><img src="Meridian HR Dashbord Overview.png" width="400"/></td>
+    <td><img src="Meridian HR Headcount Dashboard.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Meridian HR Training Dashboard.png" width="400"/></td>
+    <td><img src="Meridian Hr Attrition Dashboard.png" width="400"/></td>
+  </tr>
+</table>
