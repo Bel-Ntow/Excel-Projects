@@ -1,4 +1,4 @@
-# Meridian Group HR AnalYsis
+# Meridian Group HR Analysis
 
 ### Overview
 This project is an end-to-end HR analytics and workforce reporting dashboard built in Microsoft Excel. It analyzes employee demographics, workforce composition, attrition trends, retention metrics, and training performance using interactive KPI cards and dashboard visualizations.
